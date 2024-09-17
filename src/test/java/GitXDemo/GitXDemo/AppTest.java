@@ -11,6 +11,10 @@ public class AppTest {
 	{
 		System.out.println("print demo 1");
 	}
+	public void demo2()
+	{
+		System.out.println("print demo 1");
+	}
 
    
     @Test
