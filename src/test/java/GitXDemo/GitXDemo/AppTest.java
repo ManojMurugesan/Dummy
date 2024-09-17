@@ -15,6 +15,16 @@ public class AppTest {
 	{
 		System.out.println("print demo 1");
 	}
+	
+	public void demo3()
+	{
+		System.out.println("print demo 1");
+	}
+	public void demo4()
+	{
+		System.out.println("print demo 1");
+	}
+
 
    
     @Test
