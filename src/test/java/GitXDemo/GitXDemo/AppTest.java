@@ -6,6 +6,11 @@ import org.junit.jupiter.api.Test;
 
 
 public class AppTest {
+	
+	public void demo1()
+	{
+		System.out.println("print demo 1");
+	}
 
    
     @Test
